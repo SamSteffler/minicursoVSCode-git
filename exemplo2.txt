@@ -1,1 +1,3 @@
 Este é o segundo exemplo de arquivo de texto.
+
+Essa é a segunda alteração!
