@@ -19,6 +19,7 @@ Esse programa deverá ser em C, Python ou Java e receberá dois valores como arg
 
 A entrega é até o dia 29/03 (domingo) e contará para a certificação. O envio será feito da seguinte maneira:
 
+- **Instalar GitHub Actions e GitHub Pull Requests** pela aba de extensões
 - Realizar um commit com a mensagem "Atividade Avaliativa - nome_sobrenome" e enviar o código
 - Sincronizar - ao sincronizar, aparecerá um erro e a opção de criar um fork/bifurcação do repositório, clicar nessa opção e criar o fork
 - Criar um pull request - após criar o fork, clicar na opção de criar um pull request e enviar o código
