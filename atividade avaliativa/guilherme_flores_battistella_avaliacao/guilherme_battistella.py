@@ -40,5 +40,5 @@ def main():
 
     restDiv = restDivF(valor1, valor2)
     print('Resto da Divisão =', restDiv)
-    
+
 main()
