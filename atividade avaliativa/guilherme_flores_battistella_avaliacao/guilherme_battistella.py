@@ -41,4 +41,5 @@ def funcaoCalcular():
     restDiv = restDivF(valor1, valor2)
     print('Resto da Divisão =', restDiv)
 
+
 funcaoCalcular()
