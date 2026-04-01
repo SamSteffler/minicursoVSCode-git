@@ -25,7 +25,7 @@ def restDivF(v1, v2):
     return resto
 
 
-def funcaoCalcular():
+def main():
     valor1 = int(input("Digite o primeiro Valor:\n"))
     valor2 = int(input("Digite o segundo Valor:\n"))
 
@@ -40,6 +40,5 @@ def funcaoCalcular():
 
     restDiv = restDivF(valor1, valor2)
     print('Resto da Divisão =', restDiv)
-
-
-funcaoCalcular()
+    
+main()
