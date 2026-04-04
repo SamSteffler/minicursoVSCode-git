@@ -7,5 +7,4 @@ int main(){
     media= (x+7)/2;
     resto= 7%6;
     printf("%f\n%f\n%f\n%f", soma, dif, media, resto);
-    
 }
