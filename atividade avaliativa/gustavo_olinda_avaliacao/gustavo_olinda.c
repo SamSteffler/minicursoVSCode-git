@@ -17,7 +17,7 @@ int main(int argc, char *argv[]) {
         maior = n2;
         menor = n1;
     }
-
+//aaaaaaaaaaaaaaaa
     printf("Soma: %d\n", n1 + n2);
     printf("Diferenca: %d\n", maior - menor);
     printf("Media: %.1f\n", (n1 + n2) / 2.0); 
